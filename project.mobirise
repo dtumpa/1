@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "httpsdtumpa.github.iocontact.html",
+    "currentPage": "fileCUsersCOMPUTERDownloadsUntitledabout.html.github.iotumpaindex.html.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -71,7 +71,8 @@
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "publishChangesOnly": true
   },
   "pages": {
     "fileCUsersCOMPUTERDownloadsUntitledabout.html.github.iotumpaindex.html.html": {
